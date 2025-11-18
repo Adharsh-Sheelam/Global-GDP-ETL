@@ -1,0 +1,19 @@
+2025-11-18 23:59:18,657 - INFO - ETL Job Started
+2025-11-18 23:59:20,465 - INFO - URL fetched successfully.
+2025-11-18 23:59:20,647 - INFO - HTML table extracted successfully.
+2025-11-18 23:59:20,655 - INFO - Data transformed successfully.
+2025-11-18 23:59:20,665 - INFO - CSV saved as Countries_by_GDP.csv
+2025-11-18 23:59:20,686 - INFO - Data loaded into SQLite database.
+2025-11-18 23:59:20,688 - INFO - Query executed successfully.
+2025-11-18 23:59:20,698 - INFO - ETL Job Completed Successfully
+2025-11-19 00:07:37,043 - INFO - ETL Job Started
+2025-11-19 00:07:40,444 - INFO - URL fetched successfully.
+2025-11-19 00:07:40,447 - ERROR - Error fetching URL: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2025-11-19 00:07:49,304 - INFO - ETL Job Started
+2025-11-19 00:07:50,967 - INFO - URL fetched successfully.
+2025-11-19 00:07:51,143 - INFO - HTML table extracted successfully.
+2025-11-19 00:07:51,152 - INFO - Data transformed successfully.
+2025-11-19 00:07:51,161 - INFO - CSV saved as Countries_by_GDP.csv
+2025-11-19 00:07:51,193 - INFO - Data loaded into SQLite database.
+2025-11-19 00:07:51,195 - INFO - Query executed successfully.
+2025-11-19 00:07:51,202 - INFO - ETL Job Completed Successfully
